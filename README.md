@@ -17,9 +17,8 @@
 ---
 
 ### :clipboard: About Me:
-I am a junior golang backend developer from Russia.
-- :school: Studying at the 4th year of the Moscow Aviation Institute in the direction of "Applied Mathematics" 
-- :computer: In my free time I solve problems on leetcode and create pet projects on golang and python
+I am a junior golang backend developer.
+- :school: Studying at the 5th year of the Moscow Aviation Institute in the direction of "Applied Mathematics" 
 - :mailbox: How to reach me: grishaskurihin1@gmail.com
 
 ---
@@ -39,5 +38,5 @@ I am a junior golang backend developer from Russia.
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrishaSkurikhin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
