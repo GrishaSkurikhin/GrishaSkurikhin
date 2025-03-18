@@ -1,2 +1,2 @@
-- :mailbox: grishaskurihin1@gmail.com
+- Mail: grishaskurihin1@gmail.com
 - Telegram: @GOSkurikhin
